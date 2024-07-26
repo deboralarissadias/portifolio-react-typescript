@@ -1,0 +1,172 @@
+.conteudo-sessao4-escrito-titulo {
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;
+  }
+  
+  
+  .conteudo-sessao4-escrito-subtitulo {
+    color: #445964;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+    margin-top: -10px;
+  
+  }
+  
+  .conteudo-sessao4-escrito {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .conteudo-sessao4 {
+    /*
+    margin-right: 115px;
+    margin-bottom: 60px;
+    */
+  }
+  
+  .imagens-cargos {
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 960px;
+    margin-top: 0;
+    margin-right: 190px;
+    margin-left: 190px;
+    margin-bottom: 40px;
+  }
+  
+  .conteudo-sessao4-cargo2 {
+    margin-top: -10px;
+  }
+  
+  .titulo1 {
+    position: relative;
+    text-align: center;
+    color: #445964;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 20px;
+  }
+  
+  .conteudo-sessao4-cargo1 {
+    background-image: url("../images/cargo1.png");
+    width: 100%;
+    height: 160px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+  }
+  
+  .titulo2 {
+    position: relative;
+    text-align: center;
+    color: #263138;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 20px;
+  }
+  
+  .conteudo-sessao4-cargo2 {
+    background-image: url("../images/cargo2.png");
+    width: 100%;
+    height: 160px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+  }
+  
+  .titulo3 {
+    position: relative;
+    text-align: center;
+    color: #445964;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 20px;
+  }
+  
+  .conteudo-sessao4-cargo3 {
+    background-image: url("../images/cargo3.png");
+    width: 100%;
+    height: 160px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .texto1 {
+    color: #FFF;
+    text-align: center;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 16px;
+    justify-content: center;
+    padding: 15px;
+  }
+  
+  .conteudo-sessao4-escrito2 {
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+    width: 100%;
+    margin-left: 55px;
+    margin-right: 55px;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 60px;
+    gap: 5px;
+  }
+  
+  .conteudo-sessao4-aspas {
+    width: 40px;
+    height: 40px;
+    margin-top: 25px;
+  }
+  
+  .conteudo-sessao4-texto {
+    color: #445964;
+    text-align: center;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 300px;
+  
+  }
+  
+  .conteudo-sessao4-texto2 {
+    color: #263138;
+    text-align: center;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+  }

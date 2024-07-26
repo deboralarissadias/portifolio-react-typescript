@@ -1,0 +1,60 @@
+.conteudo-sessao3 {
+    margin-right: 100px;
+    margin-bottom: 60px;
+    margin-left: 100px;
+  
+  }
+  
+  
+  .conteudo-sessao3-escrito-titulo {
+    color: #445964;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .conteudo-sessao3-escrito-subtitulo {
+    color: #445964;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+    margin-top: -10px;
+  }
+  
+  .conteudo-sessao3-escrito-subtitulo-continuaçao {
+    color: #445964;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+    margin-top: -15px;
+  }
+  
+  .escrito3 {
+    color: #445964;
+  }
+  
+  .tecnologias-utilizadas {
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    flex-wrap: wrap;
+  }
+  
+  .conteudo-sessao3-html, .conteudo-sessao3-css, .conteudo-sessao3-figma, .conteudo-sessao3-git, .conteudo-sessao3-jira, .conteudo-sessao3-js, .conteudo-sessao3-python {
+    width: 55px;
+    height: 55px;
+  }
