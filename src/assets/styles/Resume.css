@@ -26,6 +26,7 @@
   .conteudo-sessao4-escrito {
     display: flex;
     flex-direction: column;
+    margin-top: -40px;
   }
   
   .conteudo-sessao4 {
@@ -112,6 +113,27 @@
     height: 160px;
     background-size: cover;
     background-repeat: no-repeat;
+  }
+
+  .titulo4 {
+    position: relative;
+    text-align: center;
+    color: #263138;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 0px;
+  }
+  
+  .conteudo-sessao4-cargo4 {
+    background-image: url("../images/cargo2.png");
+    width: 100%;
+    height: 160px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-right: 20px;
   }
   
   .texto1 {
