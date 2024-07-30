@@ -50,13 +50,40 @@
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
+    justify-content: center;
   }
   
-  .skills {
+  .soft-skills0 {
+    width: 100px;
+    height: 100px;
+    background-color: #263138;
+    border-radius: 100%;
     display: flex;
-    gap: 16px;
-    padding: 16px;
-    background-color: #eef;
-    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .soft-skills1 {
+    width: 100px;
+    height: 100px;
+    background-color: #445964;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .texto-skills {
+    color: #FFF;
+    text-align: center;
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    margin-top: 16px;
+    justify-content: center;
+    padding: 15px;
   }
   
