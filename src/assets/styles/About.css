@@ -44,16 +44,18 @@
     margin-top: 80px;
     text-align: center;
     margin-top: 30px;
+    margin-bottom: -10px;
   }
   
   .skills-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 16px;
+    gap: 40px;
     justify-content: center;
+    margin-bottom: 50px;
   }
   
-  .soft-skills0 {
+  .soft-skills0, .soft-skills2, .soft-skills4, .soft-skills6 {
     width: 100px;
     height: 100px;
     background-color: #263138;
@@ -63,7 +65,7 @@
     justify-content: center;
   }
 
-  .soft-skills1 {
+  .soft-skills1, .soft-skills3, .soft-skills5, .soft-skills7 {
     width: 100px;
     height: 100px;
     background-color: #445964;

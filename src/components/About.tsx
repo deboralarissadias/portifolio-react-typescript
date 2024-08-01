@@ -12,6 +12,27 @@ const About: React.FC = () => {
           <div className="soft-skills0">
           <p className="texto-skills">Empatia</p>
           </div>
+          <div className="soft-skills1">
+          <p className="texto-skills">Trabalho em equipe</p>
+          </div>
+          <div className="soft-skills2">
+          <p className="texto-skills">Ética</p>
+          </div>
+          <div className="soft-skills3">
+          <p className="texto-skills">Liderança</p>
+          </div>
+          <div className="soft-skills4">
+          <p className="texto-skills">Resolução de problemas</p>
+          </div>
+          <div className="soft-skills5">
+          <p className="texto-skills">Comunicação</p>
+          </div>
+          <div className="soft-skills6">
+          <p className="texto-skills">Proatividade</p>
+          </div>
+          <div className="soft-skills7">
+          <p className="texto-skills">Resiliência</p>
+          </div>
         </div>
       </div>
     </section>
