@@ -98,6 +98,7 @@
     background-repeat: no-repeat;
     margin-right: 20px;
     border-radius: 10px;
+    
   }
   
   .texto1 {
@@ -111,7 +112,9 @@
     line-height: normal;
     margin-top: 16px;
     justify-content: center;
-    padding: 15px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .conteudo-sessao4-escrito2 {

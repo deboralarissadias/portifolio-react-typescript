@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from './components/Header';
-import Home from './components/Home';
-import About from './components/About';
-import Portfolio from './components/Portfolio';
-import Services from './components/Services';
-import Resume from './components/Resume';
+import Header from './sections/Header';
+import Home from './sections/Home';
+import About from './sections/About';
+import Services from './sections/Services';
+import Resume from './sections/Resume';
+import Projects from './sections/Projects';
 
 function App() {
   return (
@@ -13,9 +13,9 @@ function App() {
       <main className="conteudo">
         <Home />
         <About />
-        <Portfolio />
-        <Services />
-        <Resume />
+        <Projects />
+        {/* <Services /> */}
+        {/* <Resume /> */}
       </main>
     </div>
   );
