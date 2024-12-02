@@ -11,3 +11,27 @@
   .card {
     --bs-border-width: 0;
   }
+
+  .gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2vw;
+    padding: 0 10vw;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+  
+  .gallery-items {
+    border: 1px solid #FFF;
+    box-shadow: 5px 5px 5px #0006;
+    transition: transform .5s linear;
+  }
+  
+  .gallery-items:hover {
+    transform: scale(1.1);
+  }
+
+  .gallery-container .g-4, .gallery-container .gx-4 {
+    --bs-gutter-x: 5.5rem;
+  }

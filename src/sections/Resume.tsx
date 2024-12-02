@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/styles/Resume.css';
+import '../assets/styles/sections/Resume.css';
 import aspas from '../assets/images/aspas.png';
 
 const Resume: React.FC = () => {

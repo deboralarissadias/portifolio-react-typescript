@@ -34,34 +34,5 @@
     padding: 0 20px;
   }
   
-  .gallery-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    gap: 2vw;
-    padding: 0 2vw;
-    margin-top: 30px;
-    margin-bottom: 50px;
-  }
-  
-  .gallery-items {
-    width: 220px;
-    height: 220px;
-    border: 10px solid #FFF;
-    box-shadow: 5px 5px 5px #0006;
-    flex-grow: 1;
-    transition: transform .5s linear;
-  
-  }
-  
-  .gallery-items img {
-    /* width: 100%;
-    height: 100%;
-    object-fit: cover; */
-  }
-  
-  .gallery-items:hover {
-    transform: scale(1.1);
-  }
 
 

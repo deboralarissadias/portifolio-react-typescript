@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/styles/Services.css';
+import '../assets/styles/sections/Services.css';
 import html from '../assets/images/html.png';
 import css from '../assets/images/css.png';
 import figma from '../assets/images/figma.png';

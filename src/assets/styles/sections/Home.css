@@ -69,8 +69,8 @@
     align-items: center;
     gap: 8px;
     align-self: flex-start;
-    background: blueviolet;
-    border-radius: 5px;
+    background: #263138;
+    border-radius: 15px;
     border: none;
     color: white;
     cursor: pointer;
@@ -78,7 +78,7 @@
   }
   
   .conteudo-sessao0-escrito-botao:hover {
-    background: darkviolet;
+    background: #445964;
   }
   
   .redes-sociais {

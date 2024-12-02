@@ -26,7 +26,7 @@ function ProjectCard({ projects }: ProjectCardProps) {
             className="project-card-link gallery-items"
           >
             <Card>
-              <Card.Img variant="top" src={project.image} alt={project.title} width={250} height={250} />
+              <Card.Img variant="top" src={project.image} alt={project.title} width={230} height={230} />
               <Card.Body>
                 <Card.Title>{project.title}</Card.Title>
                 <Card.Text>{project.description}</Card.Text>
