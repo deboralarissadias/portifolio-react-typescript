@@ -92,3 +92,51 @@
     height: 40px;
   }
   
+  /* Responsividade */
+@media (max-width: 768px) {
+    .conteudo-sessao0 {
+      flex-direction: column;
+      align-items: center;
+      margin-top: 80px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 90%;
+    }
+  
+    .conteudo-sessao0-container {  
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    .conteudo-sessao0-imagem {
+      width: 200px;
+      order: 1;
+      margin-top: 20px;
+    }
+  
+    .conteudo-sessao0-escrito {
+      text-align: start;
+      order: 2;
+      margin-top: auto;
+      margin-left: 0;
+      margin-bottom: 20px;
+      width: 100%;
+    }
+
+    .conteudo-sessao0-escrito-titulo {
+      text-align: start;
+    }
+  
+    .conteudo-sessao0-escrito-subtitulo {
+      text-align: start;
+      font-size: 40px;
+    }
+  
+    .conteudo-sessao0-escrito-subtitulo-continuaçao {
+      text-align: start;
+    }
+
+  }

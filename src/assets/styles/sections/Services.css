@@ -57,3 +57,19 @@
     width: 55px;
     height: 55px;
   }
+
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .conteudo-sessao3 {
+      width: 90%;
+      box-sizing: content-box;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0;
+    }
+
+    .conteudo-sessao3-escrito-titulo {
+      margin-top: 30px;
+    }
+  }
+

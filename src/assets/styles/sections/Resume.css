@@ -158,3 +158,40 @@
     margin-top: -16px;
     margin-bottom: 30px;
   }
+
+   /* Responsividade */
+   @media (max-width: 768px) {
+    .conteudo-sessao4 {
+      width: 90%;
+      box-sizing: content-box;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .imagens-cargos {
+      flex-wrap: wrap;
+      gap: 10px;
+      order: 2;
+      height: auto;
+    }
+
+    .conteudo-sessao4-escrito {
+      order: 1;
+    }
+
+    .conteudo-sessao4-escrito2 {
+      position: relative;
+      order: 3;
+    }
+
+    .conteudo-sessao4-escrito-titulo {
+      margin-top: 30px;
+    }
+
+    .conteudo-sessao4-cargo2, .conteudo-sessao4-cargo4 {
+      margin-top: auto;
+    }
+  }
