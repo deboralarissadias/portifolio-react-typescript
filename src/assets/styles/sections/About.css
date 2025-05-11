@@ -28,61 +28,11 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    text-align: center;
-  }
-  
-  .conteudo-sessao1-escrito-subtitulo-continuaçao {
-    color: #445964;
-    font-family: Roboto;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: normal;
-    margin-top: 40px;
-    text-align: center;
-    margin-bottom: 20px;
-  }
-  
-  .skills-container {
+    text-align: justify;
     display: flex;
-    flex-wrap: wrap;
-    gap: 40px;
-    justify-content: center;
-    margin-bottom: 50px;
-  }
-  
-  .soft-skills0, .soft-skills2, .soft-skills4, .soft-skills6 {
-    width: 100px;
-    height: 100px;
-    background-color: #263138;
-    border-radius: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .soft-skills1, .soft-skills3, .soft-skills5, .soft-skills7 {
-    width: 100px;
-    height: 100px;
-    background-color: #445964;
-    border-radius: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .texto-skills {
-    color: #FFF;
-    text-align: center;
-    font-variant-numeric: oldstyle-nums proportional-nums;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: bold;
-    line-height: normal;
-    margin-top: 16px;
-    justify-content: center;
-    padding: 15px;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
   }
   
   /* Responsividade */

@@ -56,7 +56,7 @@
     margin-top: -10px;
   }
   
-  .titulo1, .titulo3 {
+  .titulo1, .titulo3, .titulo5 {
     position: relative;
     text-align: center;
     color: #445964;
@@ -68,7 +68,7 @@
     margin-top: 20px;
   }
   
-  .conteudo-sessao4-cargo1, .conteudo-sessao4-cargo3 {
+  .conteudo-sessao4-cargo1, .conteudo-sessao4-cargo3, .conteudo-sessao4-cargo5 {
     background-image: url("../../images/cargo1.png");
     width: 100%;
     height: 160px;

@@ -10,8 +10,8 @@ const Home: React.FC = () => {
 
       <div className='conteudo-sessao0-container'>
         <div className="conteudo-sessao0-escrito">
-          <h1 className="conteudo-sessao0-escrito-titulo">Olá pessoas,</h1>
-          <h2 className="conteudo-sessao0-escrito-subtitulo">EU SOU UMA PROGRAMADORA</h2>
+          <h1 className="conteudo-sessao0-escrito-titulo">Olá,</h1>
+          <h2 className="conteudo-sessao0-escrito-subtitulo">Eu sou Débora Larissa Desenvolvedora Front-end</h2>
           <h3 className="conteudo-sessao0-escrito-subtitulo-continuaçao">Seja bem-vindo ao meu portfólio</h3>
           <button className="conteudo-sessao0-escrito-botao" onClick={() => window.location.href = 'https://www.linkedin.com/in/debora-larissa/'}>Saiba mais sobre mim</button>
           <div className="redes-sociais">

@@ -26,6 +26,10 @@ const Resume: React.FC = () => {
           <h3 className="titulo4">Cargo</h3>
           <p className="texto1">COMPASS UOL - Estagiária Full Stack Development (React.js + Node.js) for Commerce on AWS/ Jun 2024 - Nov 2024</p>
         </div>
+        <div className="conteudo-sessao4-cargo5">
+          <h3 className="titulo5">Cargo</h3>
+          <p className="texto1">COMPASS UOL - Programadora Trainee / Atual</p>
+        </div>
       </div>
 
       <div className="conteudo-sessao4-escrito2">
